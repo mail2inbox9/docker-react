@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          i was chnages to feature branch 
+          Learn React
         </a>
       </header>
     </div>
